@@ -8,5 +8,4 @@ Front-end 개발자
 - 현재 Next.js, Typescript, Storybook, 을 이용해 개인 프로젝트 진행중
   
 
-![Gilgor2's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgor2&layout=compact)](https://github.com/delay-100/github-readme-stats)
+][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgor2&layout=compact)](https://github.com/delay-100/github-readme-stats)
