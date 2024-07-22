@@ -2,10 +2,9 @@
 
 Front-end 개발자
 
-- Next.js, Typescript 조합에 매료됨
-- 몰입해서 일할 때 행복함
-- 창작하는 사람이고 싶어 개발자를 직업으로 삼음
-- 현재 Next.js, Typescript, Storybook, 을 이용해 개인 프로젝트 진행중
+- Next.js, Typescript 조합을 좋아합니다.
+- 생산적으로 코드를 작성하는 법을 고민합니다.
+- 상황에 따른 Best- case를 고민하는데 많은 시간을 투자합니다.
   
 
-][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgor2&layout=compact)](https://github.com/delay-100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgor2&layout=compact)](https://github.com/delay-100/github-readme-stats)
